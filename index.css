@@ -1,0 +1,81 @@
+body{
+    font-family: 'Merriweather';
+}
+.column-1{
+    display: grid;
+    grid-template-columns: 100%;
+    background: #ecf0f1;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.row-1{
+    position: relative;
+    max-width: 1300px;   
+}
+img{
+    width: 100%;
+}
+.text{
+    position: absolute;
+    top: 100px;
+    left: 75px; 
+    color: white;   
+    font-size: 25px;
+}
+.text-2{
+    position: absolute;
+    top: 185px;
+    left: 75px; 
+    color: white;
+    font-size: 20px;   
+}
+.row-2{
+    max-width: 1300px;
+    margin-left: 75px;
+    margin-right:75px;   
+}
+.row-3{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    max-width: 1300px;
+    margin-left: 75px;
+    margin-right:75px;
+    grid-template-rows: 41%;
+}
+.row-3 div{
+    padding: 25px 25px 25px 0;
+    
+}
+footer{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    margin-left:175px;
+    margin-right: 175px;
+    padding: 0 10px 10px 0;
+}
+footer h3,p,a{
+    font-size: 15px;
+}
+footer h3{
+    font-weight: 800;
+}
+.menu div{
+    display: inline;
+    padding: 0 25px 0 25px;
+    font-size: 12px;
+}
+.right{
+    float: right;
+}
+.menu{
+    margin-left: 175px;
+    margin-right: 175px;
+    padding: 15px 0 25px 0;
+    color: ##7f8c8d;
+}
+.bot{
+    height: 10px;
+}
+.bot-2{
+    height: 10px;
+}
