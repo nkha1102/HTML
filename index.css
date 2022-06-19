@@ -40,7 +40,7 @@ img{
     max-width: 1300px;
     margin-left: 75px;
     margin-right:75px;
-    grid-template-rows: 41%;
+    
 }
 .row-3 div{
     padding: 25px 25px 25px 0;
@@ -71,11 +71,18 @@ footer h3{
     margin-left: 175px;
     margin-right: 175px;
     padding: 15px 0 25px 0;
-    color: ##7f8c8d;
+    
 }
 .bot{
     height: 10px;
 }
 .bot-2{
     height: 10px;
+}
+.menu a{
+    color: #7f8c8d;
+    text-decoration: none;
+}
+.row-3 img{
+    padding: 15px 15px 15px 0;
 }
