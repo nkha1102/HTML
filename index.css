@@ -59,18 +59,24 @@ footer h3,p,a{
 footer h3{
     font-weight: 800;
 }
-.menu div{
-    display: inline;
-    padding: 0 25px 0 25px;
-    font-size: 12px;
+.menu ul{
+    list-style-type: none;
+    
+}
+.menu ul li{
+    float:left;
+    padding: 0 25px 0 0;
+    font-size: 10px;
 }
 .right{
     float: right;
+    
 }
 .menu{
+    
     margin-left: 175px;
     margin-right: 175px;
-    padding: 15px 0 25px 0;
+    padding: 0 0 30px 0;
     
 }
 .bot{
@@ -80,8 +86,10 @@ footer h3{
     height: 10px;
 }
 .menu a{
+    
     color: #7f8c8d;
     text-decoration: none;
+    
 }
 .row-3 img{
     padding: 15px 15px 15px 0;
