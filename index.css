@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 body{
     font-family: 'Merriweather';
 }
@@ -75,10 +76,20 @@ footer h3{
 }
 .bot{
     height: 10px;
+=======
+.menu ul li{
+    float:left;
+    padding: 0 25px 0 0;
 }
-.bot-2{
-    height: 10px;
+img{
+    width: 100%;
+    padding: 23px 15px 15px 0;
+>>>>>>> Stashed changes
 }
+footer{
+    margin-top: 20px;
+}
+<<<<<<< Updated upstream
 .menu a{
     color: #7f8c8d;
     text-decoration: none;
@@ -86,3 +97,15 @@ footer h3{
 .row-3 img{
     padding: 15px 15px 15px 0;
 }
+=======
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    
+  }
+>>>>>>> Stashed changes
