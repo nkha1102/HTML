@@ -5,6 +5,13 @@
     width:auto;
     height: auto;
 }
+.logofb{
+    display:block;
+    max-width: 50px;
+    max-height: 20px;
+    width:auto;
+    height: auto;
+}
 .anh{
     display: block;
     max-width: 700px;
